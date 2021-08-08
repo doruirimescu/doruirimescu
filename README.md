@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 I'm Doru-Stefan Irimescu, a graduate of Aalto University, Master's Programme in Automation and Electrical Engineering. Currently, I am working as an autonomous vehicle software engineer.
 
-### Technologies used
+## Technologies used
 
 ![Altium Designer](https://img.shields.io/static/v1?style=flat&message=Altium+Designer&color=A5915F&logo=Altium+Designer&logoColor=FFFFFF&label=)
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
@@ -15,4 +15,21 @@ I'm Doru-Stefan Irimescu, a graduate of Aalto University, Master's Programme in 
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)
 ![OpenScad](https://img.shields.io/badge/-OpenScad-05122A?style=flat)
 
+## Overview of my repos
+Here you can find a brief overview of the repos I've been working on, based on the topic.
 
+### Activity
+My professional activity (CV) and some supporting files (pictures, achievements, prizes, certificates)
+https://github.com/doruirimescu/Activity
+
+### Matlab
+https://github.com/doruirimescu/Matlab
+
+### OpenScad
+https://github.com/doruirimescu/OpenSCAD
+
+### PCB designs
+
+### Software
+
+### Embedded software
