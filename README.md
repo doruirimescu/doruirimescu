@@ -31,5 +31,7 @@ https://github.com/doruirimescu/OpenSCAD
 ### PCB designs
 
 ### Software
+- QT/C++ 
+- Python
 
 ### Embedded software
