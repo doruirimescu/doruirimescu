@@ -38,6 +38,8 @@ https://github.com/doruirimescu/Snake-board
 https://github.com/doruirimescu/ESP32IR
 - Audio DAC board
 https://github.com/doruirimescu/DAC
+- Adjustable linear power supply
+https://github.com/doruirimescu/Linear-PSU
 
 ### Software
 - QT/C++ 
