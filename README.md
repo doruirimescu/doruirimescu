@@ -14,6 +14,7 @@ I'm Doru-Stefan Irimescu, a graduate of Aalto University, Master's Programme in 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)
 ![OpenScad](https://img.shields.io/badge/-OpenScad-05122A?style=flat)
+![VsCode](https://img.shields.io/badge/-Visual_Studio_Code-05122A?style=flat&logo=visualstudiocode)
 
 ## Overview of my repos
 Here you can find a brief overview of the repos I've been working on, based on the topic.
