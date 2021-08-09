@@ -42,7 +42,8 @@ https://github.com/doruirimescu/DAC
 https://github.com/doruirimescu/Linear-PSU
 
 ### Software
-- QT/C++ 
-- Python
+#### QT/C++
+- Multi-agent A* path planning https://github.com/doruirimescu/Astar
+#### Python
 
 ### Embedded software
