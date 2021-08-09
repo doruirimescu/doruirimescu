@@ -30,6 +30,14 @@ https://github.com/doruirimescu/Matlab
 https://github.com/doruirimescu/OpenSCAD
 
 ### PCB designs
+- Monorepo with various PCB designs
+https://github.com/doruirimescu/PCB
+- Custom-made "Arduino" board
+https://github.com/doruirimescu/Snake-board
+- ESP32 board
+https://github.com/doruirimescu/ESP32IR
+- Audio DAC board
+https://github.com/doruirimescu/DAC
 
 ### Software
 - QT/C++ 
