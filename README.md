@@ -45,5 +45,7 @@ https://github.com/doruirimescu/Linear-PSU
 #### QT/C++
 - Multi-agent A* path planning https://github.com/doruirimescu/Astar
 #### Python
-
+- Automatic trading framework https://github.com/doruirimescu/PythonTrading
+- (Forked) customized API to connect to XTB https://github.com/doruirimescu/XTBApi
 ### Embedded software
+- Smart pointer for use with Arduino https://github.com/doruirimescu/SmartPointer
