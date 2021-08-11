@@ -44,6 +44,7 @@ https://github.com/doruirimescu/Linear-PSU
 - (Forked) custom cpp project template https://github.com/doruirimescu/cpp-project/tree/Only-googletest
 #### Python
 - Automatic trading framework https://github.com/doruirimescu/PythonTrading
+- Cpp state machine code generator https://github.com/doruirimescu/state-machine-generator-engine
 - (Forked) customized API to connect to XTB https://github.com/doruirimescu/XTBApi
 #### Matlab
 https://github.com/doruirimescu/Matlab
