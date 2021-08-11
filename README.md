@@ -21,7 +21,7 @@ Here you can find a brief overview of the repos I've been working on, based on t
 
 ### Activity
 My professional activity (CV) and some supporting files (pictures, achievements, prizes, certificates)
-https://github.com/doruirimescu/Activity
+https://github.com/doruirimescu/activity
 
 ### OpenScad
 https://github.com/doruirimescu/OpenSCAD
@@ -43,7 +43,7 @@ https://github.com/doruirimescu/Linear-PSU
 - Multi-agent A* path planning https://github.com/doruirimescu/Astar
 - (Forked) custom cpp project template https://github.com/doruirimescu/cpp-project/tree/Only-googletest
 #### Python
-- Automatic trading framework https://github.com/doruirimescu/PythonTrading
+- Automatic trading framework https://github.com/doruirimescu/python-trading
 - Cpp state machine code generator https://github.com/doruirimescu/state-machine-generator-engine
 - (Forked) customized API to connect to XTB https://github.com/doruirimescu/XTBApi
 #### Matlab
