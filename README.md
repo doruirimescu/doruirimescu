@@ -35,6 +35,7 @@ Here you can find a brief overview of the repos I've been working on, based on t
 ### Software
 #### QT/C++
 - [Multi-agent A* path planning](https://github.com/doruirimescu/Astar)
+- [Scientific units with template metaprogramming](https://github.com/doruirimescu/cpp-scientific-units)
 - [(Forked) custom cpp project template](https://github.com/doruirimescu/cpp-project/tree/Only-googletest)
 #### Python
 - [Automatic trading framework](https://github.com/doruirimescu/python-trading)
