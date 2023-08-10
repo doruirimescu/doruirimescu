@@ -38,11 +38,14 @@ Here you can find a brief overview of the repos I've been working on, based on t
 - [Scientific units with template metaprogramming](https://github.com/doruirimescu/cpp-scientific-units)
 - [(Forked) custom cpp project template](https://github.com/doruirimescu/cpp-project/tree/Only-googletest)
 #### Python
+- [Decision making for humans](https://gitlab.com/simosol/asf/planning-platform/-/merge_requests/287)
 - [Automatic trading framework](https://github.com/doruirimescu/python-trading)
 - [Exception-throwing method wrapper](https://github.com/doruirimescu/exception-with-retry/)
 - [Cpp state machine code generator](https://github.com/doruirimescu/state-machine-generator-engine)
 - [(Forked) customized API to connect to XTB](https://github.com/doruirimescu/XTBApi)
 - [Multithreading framework](https://github.com/doruirimescu/python-multithreading)
+#### Web
+- tbd
 #### Matlab
 - [Matlab scripts, mostly transmission line calculations](https://github.com/doruirimescu/Matlab)
 ### Embedded software
