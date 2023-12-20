@@ -45,7 +45,7 @@ Here you can find a brief overview of the repos I've been working on, based on t
 - [(Forked) customized API to connect to XTB](https://github.com/doruirimescu/XTBApi)
 - [Multithreading framework](https://github.com/doruirimescu/python-multithreading)
 #### Web
-- tbd
+- [FastAPI backend with chatgpt integration](https://github.com/doruirimescu/fastapi-backend)
 #### Matlab
 - [Matlab scripts, mostly transmission line calculations](https://github.com/doruirimescu/Matlab)
 ### Embedded software
