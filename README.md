@@ -18,6 +18,7 @@ I'm Doru-Stefan Irimescu, a graduate of Aalto University, Master's Programme in 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00599C)
 ![Qt](https://img.shields.io/badge/-Qt-05122A?style=flat&logo=qt)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 
 ### PCB design:
