@@ -69,6 +69,7 @@ Here you can find a brief overview of the repos I've been working on, based on t
 - [Multithreading framework](https://github.com/doruirimescu/python-multithreading)
 #### Web
 - [FastAPI backend with chatgpt integration](https://github.com/doruirimescu/fastapi-backend)
+- [Flashcards for language (and not only) learning](https://github.com/doruirimescu/flashcards)
 #### Matlab
 - [Matlab scripts, mostly transmission line calculations](https://github.com/doruirimescu/Matlab)
 ### Embedded software
