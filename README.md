@@ -46,15 +46,6 @@ Here you can find a brief overview of the repos I've been working on, based on t
 ### Activity
 - [My professional activity (CV) and some supporting files (pictures, achievements, prizes, certificates)](https://github.com/doruirimescu/activity)
 
-### OpenScad
-- [Various 2d acryllic cutting projects](https://github.com/doruirimescu/OpenSCAD)
-
-### PCB designs
-- [Monorepo with various PCB designs](https://github.com/doruirimescu/PCB)
-- [Custom-made "Arduino" board](https://github.com/doruirimescu/Snake-board)
-- [ESP32 board](https://github.com/doruirimescu/ESP32IR)
-- [Audio DAC board](https://github.com/doruirimescu/DAC)
-- [Adjustable linear power supply](https://github.com/doruirimescu/Linear-PSU)
 
 ### Software
 #### QT/C++
@@ -64,6 +55,7 @@ Here you can find a brief overview of the repos I've been working on, based on t
 #### Python
 - [Decision making for humans](https://github.com/doruirimescu/decision-making)
 - [Automatic trading framework](https://github.com/doruirimescu/python-trading)
+- [Stateful data processing utility](https://github.com/doruirimescu/stateful-data-processor/)
 - [Exception-throwing method wrapper](https://github.com/doruirimescu/exception-with-retry/)
 - [Cpp state machine code generator](https://github.com/doruirimescu/state-machine-generator-engine)
 - [(Forked) customized API to connect to XTB](https://github.com/doruirimescu/XTBApi)
@@ -73,5 +65,17 @@ Here you can find a brief overview of the repos I've been working on, based on t
 - [Flashcards for language (and not only) learning](https://github.com/doruirimescu/flashcards)
 #### Matlab
 - [Matlab scripts, mostly transmission line calculations](https://github.com/doruirimescu/Matlab)
+
+  
 ### Embedded software
 - [Smart pointer for use with Arduino](https://github.com/doruirimescu/SmartPointer)
+  
+### OpenScad
+- [Various 2d acryllic cutting projects](https://github.com/doruirimescu/OpenSCAD)
+
+### PCB designs
+- [Monorepo with various PCB designs](https://github.com/doruirimescu/PCB)
+- [Custom-made "Arduino" board](https://github.com/doruirimescu/Snake-board)
+- [ESP32 board](https://github.com/doruirimescu/ESP32IR)
+- [Audio DAC board](https://github.com/doruirimescu/DAC)
+- [Adjustable linear power supply](https://github.com/doruirimescu/Linear-PSU)
